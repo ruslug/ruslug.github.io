@@ -1,0 +1,12 @@
+@media (prefers-color-scheme: dark) {
+  html {
+     background: #181818;
+     color: white;
+  }
+  a { color: lightblue; }
+  nav a { color: white; }
+  #logotext {
+    color: white;
+  }
+}
+
